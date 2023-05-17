@@ -16,15 +16,28 @@ python >= 3.8
 
 The project contains 3 folders and 6 files.
 
-1. data (folder): All datasets are in this folder.
-2. comm (folder): This folder is used for community discovery.
-3. result (folder): This folder is used to store the results and contains four examples of synthetic graphs.
-4. main.py (file): The file is used to obtain the results of PrivGraph for End-to-End experiments.
-5. main_vary_N.py (file): The file is used to obtain the results for different number of nodes.
-6. main_vary_eps.py (file): The file is used to obtain the results for different privacy budget allocations.
-7. main_vary_t.py (file): The file is used to obtain the results for different resolution parameters.
-8. IM_spread.py (file): The file is used to obtain the results of influence maximization.
-9. utils.py (file): The file includes some functions that are needed for other files.
+1. data (folder): All datasets are in this folder.           
+   数据（文件夹）：所有数据集都在此文件夹中。
+3. comm (folder): This folder is used for community discovery. 
+   comm（文件夹）：此文件夹用于社区发现。
+5. result (folder): This folder is used to store the results and contains four examples of synthetic graphs.
+   result（文件夹）：此文件夹用于存储结果，包含四个合成图的示例。
+7. main.py (file): The file is used to obtain the results of PrivGraph for End-to-End experiments.
+   main.py（file）：该文件用于获得端到端实验的PrivGraph结果。
+9. main_vary_N.py (file): The file is used to obtain the results for different number of nodes.
+   main_vary_N.py（文件）：该文件用于获得不同数量节点的结果。
+11. main_vary_eps.py (file): The file is used to obtain the results for different privacy budget allocations.
+    main_vary_eps.py（文件）：该文件用于获得不同隐私预算分配的结果。
+13. main_vary_t.py (file): The file is used to obtain the results for different resolution parameters.
+    main_vary_t.py（文件）：该文件用于获得不同分辨率参数的结果。
+15. IM_spread.py (file): The file is used to obtain the results of influence maximization.
+    IM_spread.py（文件）：该文件用于获得影响力最大化的结果。
+17. utils.py (file): The file includes some functions that are needed for other files.
+    utils.py（文件）：该文件包括其他文件所需的一些函数。
+The project contains 3 folders and 6 files.
+该项目包含3个文件夹和6个文件。
+
+
 
 ## Run
 
